@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../.gradle/caches/transforms-3/7c35e9ced6058ee9ee419dce8130dd8e/transformed/appcompat-1.4.1/res/layout-v26/abc_screen_toolbar.xml" value="0.121875" />
+        <entry key="../../Library/Android/sdk/platforms/android-32/data/res/layout/auto_complete_list.xml" value="0.121875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22760416666666666" />
+        <entry key="app/src/main/res/layout/book_details_fragment_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/book_display_fragment_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/book_search_fragment_layout.xml" value="0.121875" />
+        <entry key="app/src/main/res/layout/item_layout.xml" value="0.25" />
       </map>
     </option>
   </component>
